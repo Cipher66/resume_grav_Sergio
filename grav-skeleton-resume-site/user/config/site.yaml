@@ -1,0 +1,18 @@
+title: Sergio Chávez
+description: Microsystems Techinician
+author:
+  name: Team Grav
+  email: 'joe@test.com'
+metadata:
+    description: 'Resume is a free and responsive theme for **Grav**. Its a port of Resume template by HTML5UP.'
+
+website: "getgrav.org"
+
+address:
+    - line: "C/ Calle"
+    - line: "10866"
+    - line: "Donostia-San Sebastián  ES"
+contact: 
+    - line: "schavezfe16dw@ikzubirimanteo.com"
+    - line: "+34 111-222-333"
+    - line: ""

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/system/src/Grav" isTestSource="false" packagePrefix="Grav\" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/antoligy/dom-string-iterators" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/donatj/phpuseragentparser" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown-extra" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/image" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/league/climate" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/minify" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/path-converter" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/maximebf/debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/miljar/php-exif" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/rockettheme/toolbox" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/seld/cli-prompt" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/antoligy/dom-string-iterators" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/composer" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/donatj/phpuseragentparser" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown-extra" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/cache" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/image" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/league/climate" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/minify" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/path-converter" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/miljar/php-exif" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/rockettheme/toolbox" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/seld/cli-prompt" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-iconv" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/twig/twig" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/antoligy/dom-string-iterators" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/composer" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/donatj/phpuseragentparser" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/erusev/parsedown-extra" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/cache" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/gregwar/image" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/league/climate" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/minify" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/matthiasmullie/path-converter" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/miljar/php-exif" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/rockettheme/toolbox" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/seld/cli-prompt" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-iconv" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/grav-skeleton-resume-site/vendor/twig/twig" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
